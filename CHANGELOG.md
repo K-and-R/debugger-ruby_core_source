@@ -1,3 +1,22 @@
+## 1.2.0
+* Add 2.0.0-p0 headers
+
+## 1.1.9
+* Add 1.9.3-p392 headers
+
+## 1.1.8
+* Add 1.9.3-p385 headers
+* Support ruby 2.0 from add_source task
+
+## 1.1.7
+* Add 1.9.3-p374 headers
+
+## 1.1.6
+* Add 1.9.3-p362 headers
+
+## 1.1.5
+* Add 1.9.3-p327 headers
+
 ## 1.1.4
 * Add 1.9.3-p286 headers
 
