@@ -1,5 +1,5 @@
 module Debugger
   module RubyCoreSource
-    VERSION = '1.2.3.paperless'
+    VERSION = '1.3.0.paperless'
   end
 end
