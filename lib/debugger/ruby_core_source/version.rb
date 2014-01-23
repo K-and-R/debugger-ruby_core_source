@@ -1,5 +1,5 @@
 module Debugger
   module RubyCoreSource
-    VERSION = '1.3.0.ppc12b5b9'
+    VERSION = '1.3.1'
   end
 end
