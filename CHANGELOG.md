@@ -1,3 +1,17 @@
+## 1.3.5
+* Add 1.9.3-p547 headers
+
+## 1.3.4
+* Add 2.0.0-p481 headers
+
+## 1.3.3
+* Add 2.1.2 headers
+
+## 1.3.2
+* Add 2.1.1 headers
+* Add 2.0.0-p451 headers
+* Add 1.9.3-p545 headers
+
 ## 1.3.1
 * Fix 2.1.0 location
 
