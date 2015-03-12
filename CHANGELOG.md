@@ -1,20 +1,24 @@
-<<<<<<< HEAD
-## 1.3.7
-* Add 2.0.0-p594 headers
+## 1.3.8-kandr
+* Merged in cldwalker/master (1.3.8)
+* Merged in headers from various forks
+** 2.1.5
+** 2.0.0.p598 (jeffb-stell)
 
-## 1.3.6
-* Add 2.0.0-p576 headers
-* Add 2.1.3 headers
-=======
 ## 1.3.8
 * Add 1.9.2-p330 headers
 
 ## 1.3.7
 * Add 1.9.3-p551 headers
 
+## 1.3.7-kandr
+* Add 2.0.0-p594 headers
+
 ## 1.3.6
 * Add 1.9.3-p550 headers
->>>>>>> cldwalker/master
+
+## 1.3.6-kandr
+* Add 2.0.0-p576 headers
+* Add 2.1.3 headers
 
 ## 1.3.5
 * Add 1.9.3-p547 headers
