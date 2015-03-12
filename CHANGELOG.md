@@ -1,4 +1,7 @@
-## 1.3.8-kandr
+## 1.3.10-kandr
+* 2.0.0.p576 (ryotarai/2.0.0.p576)
+
+## 1.3.9-kandr
 * Merged in cldwalker/master (1.3.8)
 * Merged in headers from various forks
 ** 2.1.5

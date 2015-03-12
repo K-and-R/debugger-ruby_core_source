@@ -1,5 +1,5 @@
 module Debugger
   module RubyCoreSource
-    VERSION = '1.3.9.kandr.'
+    VERSION = '1.3.10.kandr'
   end
 end
